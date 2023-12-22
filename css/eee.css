@@ -1,0 +1,31 @@
+body{
+    background-color: black;
+    position: absolute;
+    display: flex;
+    align-items: flex-start;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.frame2{
+    height: auto;
+    width: 600px;
+    height: 400px;
+    display: flex;
+    overflow: scroll;    
+}
+
+html{
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    position: fixed;
+    width: 100%;
+}
+
+.x{
+    position: fixed;
+}
